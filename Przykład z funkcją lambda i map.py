@@ -3,5 +3,3 @@ new_n = list(map(lambda x: x ** 2, n))
 
 print(n)
 print(new_n)
-
-#gotowe
